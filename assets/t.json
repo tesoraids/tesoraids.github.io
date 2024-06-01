@@ -1,0 +1,21 @@
+{
+  "language":[{"lang":"es", "text":"Español"},{"lang":"en", "text":"English"}],
+  "enter":[{"lang":"es", "text":"Entrar"},{"lang":"en", "text":"Enter"}],
+  "name":[{"lang":"es", "text":"Nombre"},{"lang":"en", "text":"Name"}],
+  "type":[{"lang":"es", "text":"Tipo"},{"lang":"en", "text":"Type"}],
+  "group":[{"lang":"es", "text":"Grupo"},{"lang":"en", "text":"Group"}],
+  "mode":[{"lang":"es", "text":"Modo"},{"lang":"en", "text":"Mode"}],
+  "guide":[{"lang":"es", "text":"Guía"},{"lang":"en", "text":"Guide"}]
+  ,
+  "date":[{"lang":"es", "text":"Fecha"},{"lang":"en", "text":"Date"}],
+  "guides":[{"lang":"es", "text":"Guías"},{"lang":"en", "text":"Guides"}],
+  "home":[{"lang":"es", "text":"Inicio"},{"lang":"en", "text":"Home"}],
+  "time":[{"lang":"es", "text":"Tiempo"},{"lang":"en", "text":"Time"}],
+  "comment":[{"lang":"es", "text":"Comentario"},{"lang":"en", "text":"Comment"}],
+  "dd":[{"lang":"es", "text":"Daño"},{"lang":"en", "text":"Damage"}],
+  "healer":[{"lang":"es", "text":"Sanador"},{"lang":"en", "text":"Healer"}],
+  "tank":[{"lang":"es", "text":"Tanque"},{"lang":"en", "text":"Tank"}],
+  "hm":[{"lang":"es", "text":"Modo difícil"},{"lang":"en", "text":"Hard mode"}],
+  "veteran":[{"lang":"es", "text":"Veterano"},{"lang":"en", "text":"Veteran"}],
+  "lastPublications":[{"lang":"es", "text":"Últimas publicaciones"},{"lang":"en", "text":"Last publications"}]
+}

@@ -1,0 +1,965 @@
+[
+  {
+    "id": "dsa",
+    "type": 3,
+    "group": 4,
+    "date": "2024-04-23",
+    "yt": "aaZPN897TX4",
+    "name": [
+      {
+        "lang": "es",
+        "text": "Dragonstar Arena"
+      },
+      {
+        "lang": "en",
+        "text": "Dragonstar Arena"
+      }
+    ],
+    "texts": [
+      {
+        "range": {
+          "start": 2,
+          "end": 6
+        },
+        "roles": [ 0 ],
+        "text": [
+          {
+            "lang": "es",
+            "text": "Esta arena consta de X escenarios con 4 rondas de oleadas de monstruos, y una quinta con un jefe final. Tras ellos llega un escenario final con una única ronda con todos los jefes de las X anteriores."
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ],
+        "title": [
+          {
+            "lang": "es",
+            "text": "Intro 1"
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 14,
+          "end": 20
+        },
+        "roles": [ 0 ],
+        "text": [
+          {
+            "lang": "es",
+            "text": "Cada escenario tiene 5 pebeteros para indicar la ronda en la que se encuentra. Además en cada escenario suele haber una mecánica única que se va repitiendo."
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ],
+        "title": [
+          {
+            "lang": "es",
+            "text": "Intro 2"
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 30,
+          "end": 35
+        },
+        "roles": [ 0 ],
+        "text": [
+          {
+            "lang": "es",
+            "text": "Escenario 1, Ronda 1."
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ],
+        "title": [
+          {
+            "lang": "es",
+            "text": "E1.R1"
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 83,
+          "end": 88
+        },
+        "roles": [ 0 ],
+        "text": [
+          {
+            "lang": "es",
+            "text": "Escenario 1, Ronda 2."
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ],
+        "title": [
+          {
+            "lang": "es",
+            "text": "E1.R2"
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 115,
+          "end": 135
+        },
+        "roles": [ 0 ],
+        "text": [
+          {
+            "lang": "es",
+            "text": "Mecánica escenario 1: Los enemigos con un banderín a la espalda dejarán un área en el suelo, la cual cuará a toda unidad enemiga que esté sobre ella. Además, hay trampillas de lanzas que se activan y habrá que evitar estar encima de ellas."
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ],
+        "title": [
+          {
+            "lang": "es",
+            "text": "M1"
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 117,
+          "end": 122
+        },
+        "roles": [ 1 ],
+        "text": [
+          {
+            "lang": "es",
+            "text": "El tanque debe sacar a los enemigos del área del suelo"
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ],
+        "title": [
+          {
+            "lang": "es",
+            "text": "Tank"
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 143,
+          "end": 148
+        },
+        "roles": [ 0 ],
+        "text": [
+          {
+            "lang": "es",
+            "text": "Escenario 1, Ronda 3."
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ],
+        "title": [
+          {
+            "lang": "es",
+            "text": "E1.R3"
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 190,
+          "end": 195
+        },
+        "roles": [ 0 ],
+        "text": [
+          {
+            "lang": "es",
+            "text": "Escenario 1, Ronda 4."
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ],
+        "title": [
+          {
+            "lang": "es",
+            "text": "E1.R4"
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 245,
+          "end": 250
+        },
+        "roles": [ 0 ],
+        "text": [
+          {
+            "lang": "es",
+            "text": "Escenario 1, Ronda 5. Jefe."
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ],
+        "title": [
+          {
+            "lang": "es",
+            "text": "E1.R5"
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 333,
+          "end": 340
+        },
+        "roles": [ 1 ],
+        "text": [
+          {
+            "lang": "es",
+            "text": "Mecánica escenario 1: Sacar al Jefe del área de curación."
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ],
+        "title": [
+          {
+            "lang": "es",
+            "text": "M1"
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 379,
+          "end": 405
+        },
+        "roles": [ 0 ],
+        "text": [
+          {
+            "lang": "es",
+            "text": "Mecánica escenario 2: Existen 3 hogueras que tendremos que tener cerca para no morir congelados. Cada cierto tiempo las hogueras se apagarán y habrá que volver a encenderlas con las antorchas que hay distribuidas por la zona."
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ],
+        "title": [
+          {
+            "lang": "es",
+            "text": "M2"
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 410,
+          "end": 415
+        },
+        "roles": [ 0 ],
+        "text": [
+          {
+            "lang": "es",
+            "text": "Escenario 2, Ronda 1."
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ],
+        "title": [
+          {
+            "lang": "es",
+            "text": "E2.R1"
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 465,
+          "end": 470
+        },
+        "roles": [ 0 ],
+        "text": [
+          {
+            "lang": "es",
+            "text": "Escenario 2, Ronda 2."
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ],
+        "title": [
+          {
+            "lang": "es",
+            "text": "E2.R2"
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 533,
+          "end": 553
+        },
+        "roles": [ 0 ],
+        "text": [
+          {
+            "lang": "es",
+            "text": "Mecánica escenario 2: La hoguera se ha apagado. Cogemos una antorcha y la encendemos de nuevo."
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ],
+        "title": [
+          {
+            "lang": "es",
+            "text": "M2"
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 535,
+          "end": 540
+        },
+        "roles": [ 0 ],
+        "text": [
+          {
+            "lang": "es",
+            "text": "Escenario 2, Ronda 3."
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ],
+        "title": [
+          {
+            "lang": "es",
+            "text": "E2.R3"
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 594,
+          "end": 599
+        },
+        "roles": [ 0 ],
+        "text": [
+          {
+            "lang": "es",
+            "text": "Escenario 2, Ronda 4."
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ],
+        "title": [
+          {
+            "lang": "es",
+            "text": "E2.R4"
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 607,
+          "end": 620
+        },
+        "roles": [ 0 ],
+        "text": [
+          {
+            "lang": "es",
+            "text": "Mecánica escenario 2: La hoguera se ha apagado. Cogemos una antorcha y la encendemos de nuevo."
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ],
+        "title": [
+          {
+            "lang": "es",
+            "text": "M2"
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 670,
+          "end": 675
+        },
+        "roles": [ 0 ],
+        "text": [
+          {
+            "lang": "es",
+            "text": "Escenario 2, Ronda 5. Jefe."
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ],
+        "title": [
+          {
+            "lang": "es",
+            "text": "E2.R5"
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 803,
+          "end": 823
+        },
+        "roles": [ 0 ],
+        "text": [
+          {
+            "lang": "es",
+            "text": "Mecánica escenario 3: Aparecen aleatoriamente áreas grandes de veneno a evitar."
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ],
+        "title": [
+          {
+            "lang": "es",
+            "text": "M3"
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 847,
+          "end": 852
+        },
+        "roles": [ 0 ],
+        "text": [
+          {
+            "lang": "es",
+            "text": "Escenario 3, Ronda 1."
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ],
+        "title": [
+          {
+            "lang": "es",
+            "text": "E3.R1"
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 908,
+          "end": 913
+        },
+        "roles": [ 0 ],
+        "text": [
+          {
+            "lang": "es",
+            "text": "Escenario 3, Ronda 2."
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ],
+        "title": [
+          {
+            "lang": "es",
+            "text": "E3.R2"
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 971,
+          "end": 976
+        },
+        "roles": [ 0 ],
+        "text": [
+          {
+            "lang": "es",
+            "text": "Escenario 3, Ronda 3."
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ],
+        "title": [
+          {
+            "lang": "es",
+            "text": "E3.R3"
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 1044,
+          "end": 1049
+        },
+        "roles": [ 0 ],
+        "text": [
+          {
+            "lang": "es",
+            "text": "Escenario 3, Ronda 4."
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ],
+        "title": [
+          {
+            "lang": "es",
+            "text": "E3.R4"
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 1100,
+          "end": 1105
+        },
+        "roles": [ 0 ],
+        "text": [
+          {
+            "lang": "es",
+            "text": "Escenario 3, Ronda 5. Jefe."
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ],
+        "title": [
+          {
+            "lang": "es",
+            "text": "E3.R5"
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 1246,
+          "end": 1261
+        },
+        "roles": [ 0 ],
+        "text": [
+          {
+            "lang": "es",
+            "text": "Mecánica escenario 4: Aparecen unos guerreros con un banderín a la espalda que se quedan quietos apuntando a uno del equipo, donde aparecerá una copia suya. El área que crea la copia ha de ser evitada y matar al original para que no sigua haciendo otras copias."
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ],
+        "title": [
+          {
+            "lang": "es",
+            "text": "M4"
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 1270,
+          "end": 1275
+        },
+        "roles": [ 0 ],
+        "text": [
+          {
+            "lang": "es",
+            "text": "Escenario 4, Ronda 1."
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ],
+        "title": [
+          {
+            "lang": "es",
+            "text": "E4.R1"
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 1325,
+          "end": 1330
+        },
+        "roles": [ 0 ],
+        "text": [
+          {
+            "lang": "es",
+            "text": "Escenario 4, Ronda 2."
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ],
+        "title": [
+          {
+            "lang": "es",
+            "text": "E4.R2"
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 1395,
+          "end": 1400
+        },
+        "roles": [ 0 ],
+        "text": [
+          {
+            "lang": "es",
+            "text": "Escenario 4, Ronda 3."
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ],
+        "title": [
+          {
+            "lang": "es",
+            "text": "E4.R3"
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 1460,
+          "end": 1465
+        },
+        "roles": [ 0 ],
+        "text": [
+          {
+            "lang": "es",
+            "text": "Escenario 4, Ronda 4."
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ],
+        "title": [
+          {
+            "lang": "es",
+            "text": "E4.R4"
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 1497,
+          "end": 1506
+        },
+        "roles": [ 0 ],
+        "text": [
+          {
+            "lang": "es",
+            "text": "Mecánica escenario 4: 2 guerreros con banderines apuntan a 2 del grupo para crear una copia."
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ],
+        "title": [
+          {
+            "lang": "es",
+            "text": "M4"
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 1545,
+          "end": 1550
+        },
+        "roles": [ 0 ],
+        "text": [
+          {
+            "lang": "es",
+            "text": "Escenario 4, Ronda 5. Jefe."
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ],
+        "title": [
+          {
+            "lang": "es",
+            "text": "E4.R5"
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 1680,
+          "end": 1694
+        },
+        "roles": [ 0 ],
+        "text": [
+          {
+            "lang": "es",
+            "text": "Mecánica escenario 5: En la arena existen plataformas, tanto en el suelo como en la pared. Un mago invocará una maldición que marcará a varios del grupo y deberán evitar la muerte poniendose al lado o encima de una plataforma iluminada."
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ],
+        "title": [
+          {
+            "lang": "es",
+            "text": "M5"
+          },
+          {
+            "lang": "en",
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "pauses": [
+      {
+        "roles": [ 1, 2 ],
+        "start": 117,
+        "duration": 5
+      }
+    ],
+    "timeline": [
+      {
+        "mode": 0,
+        "ranges": [
+          {
+            "start": 0,
+            "toEnd": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vh",
+    "type": 3,
+    "group": 1,
+    "date": "2022-05-11",
+    "yt": "YEvHtGMha7o",
+    "name": [
+      {
+        "lang": "es",
+        "text": "Vateshran Hollows"
+      },
+      {
+        "lang": "en",
+        "text": "Vateshran Hollows"
+      }
+    ],
+    "timeline": [
+      {
+        "mode": 0,
+        "ranges": [
+          {
+            "start": 0,
+            "toEnd": true
+          }
+        ]
+      }
+    ],
+    "texts": [
+    ],
+    "pauses": []
+  },
+  {
+    "id": "brp",
+    "type": 3,
+    "group": 4,
+    "date": "2021-12-05",
+    "yt": "yhbyYnTwVhU",
+    "name": [
+      {
+        "lang": "es",
+        "text": "Black Rose Prison"
+      },
+      {
+        "lang": "en",
+        "text": "Black Rose Prison"
+      }
+    ],
+    "timeline": [
+      {
+        "mode": 0,
+        "ranges": [
+          {
+            "start": 0,
+            "toEnd": true
+          }
+        ]
+      }
+    ],
+    "texts": [
+    ],
+    "pauses": []
+  }
+]
